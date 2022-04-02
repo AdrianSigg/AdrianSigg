@@ -1,4 +1,1 @@
-- 👋 # Hola, soy @AdrianSigg
-- 👀 Estoy interesado en cómputo y servicios en la nube
-- 🌱 Actualmente estoy estudiando ingeniería en sistemas y AWS
-- 📫 Me puedes contactar en AdrianSigg@gmx.com
+AdrianSigg@gmx.com
